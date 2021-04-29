@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#app{
+    max-width:640px;
+    margin: 10px auto;
+    padding: 10px;
+    font-family: sans-serif;
+    background:#fefbebf0;
+    border-radius: 10px;
+}
+h1{
+    text-align: center;
+}
+#text{
+    border-radius: 5px;
+
+}
